@@ -1,0 +1,10 @@
+#input_example{
+  font-size: 20px;
+  margin-left:20px;
+ 
+}
+#input_example input {
+    padding: 12px;
+  margin: 8px 0;
+    width: 20%;
+}

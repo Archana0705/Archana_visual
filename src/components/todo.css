@@ -1,0 +1,26 @@
+#btn_id{
+   background-color: rgb(127, 155, 182);
+    margin-left: 50px;
+    border-radius: 5px;
+}
+#form_input{
+    padding:7px 10px 7px 0px;
+    height:50%;
+    margin-top: 80px;
+    padding-left:-10px ;
+    border-radius: 5px;
+    border-bottom:1px solid black;
+}
+#delete_id{
+    background-color: rgb(127, 155, 182);
+    margin-left: 50px;
+    border-radius: 5px;
+    float: right;
+}
+#division_id{
+    border-bottom: 1px dotted black;
+    margin: 20px 600px 0px 600px;
+}
+#ele_id{
+    float: left;
+}
